@@ -48,10 +48,19 @@ I specialize in **low-level C++ programming**, microcontroller firmware developm
 ### **Developer Tools & Infrastructure**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![KiCad](https://img.shields.io/badge/KiCad-314199?style=for-the-badge&logo=kicad&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Autodesk_Fusion_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![PTC Mathcad](https://img.shields.io/badge/Mathcad-ED1C24?style=for-the-badge&logo=ptc&logoColor=white)
 
+### **Development & AI Technologies**
+
+![AI & ML Integration](https://img.shields.io/badge/AI_%26_Machine_Learning-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Termius](https://img.shields.io/badge/Termius-000000?style=for-the-badge&logo=termius&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ---
 
 ## 📌 Featured Projects & Engineering Focus
