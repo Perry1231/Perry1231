@@ -5,6 +5,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E90FA&center=true&vCenter=true&width=600&lines=Embedded+Systems+Developer;C%2B%2B+%26+Hardware+Engineer;Electronics+Student+%40+Lviv+Polytechnic;Erasmus%2B+Participant)](https://git.io/typing-svg)
 
 <p align="center">
+
+
+
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Perry132-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Perry132/)
+
+
   <a href="https://github.com/Perry1231"><img src="https://img.shields.io/github/followers/Perry1231?label=Followers&style=for-the-badge&color=0d1117&logo=github" alt="GitHub Followers"></a>
   <a href="https://www.linkedin.com/in/vladyslav-vytrykush-4b1a29380/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://github.com/Perry1231?tab=repositories"><img src="https://img.shields.io/github/stars/Perry1231?style=for-the-badge&color=f39c12&logo=github" alt="GitHub Stars"></a>
