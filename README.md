@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there, I'm Vladyslav Vytrykush 👋 
 
 <div align="center">
