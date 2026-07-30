@@ -68,6 +68,9 @@ I specialize in **low-level C++ programming**, microcontroller firmware developm
 ![Termius](https://img.shields.io/badge/Termius-000000?style=for-the-badge&logo=termius&logoColor=white)
 ![AI Engineering](https://img.shields.io/badge/AI_Use_%26_Integration-7A00FF?style=for-the-badge&logo=probot&logoColor=white)
 ![Applied AI](https://img.shields.io/badge/AI_Tools_%26_Integration-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-007ACC?style=for-the-badge&logo=codefactor&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-7A00FF?style=for-the-badge&logo=spacex&logoColor=white)
+![JuiceCoder](https://img.shields.io/badge/JuiceCoder-FF8C00?style=for-the-badge&logo=coffeescript&logoColor=white)
 ---
 
 ## 📌 Featured Projects & Engineering Focus
