@@ -60,7 +60,8 @@ I specialize in **low-level C++ programming**, microcontroller firmware developm
 
 ![AI & ML Integration](https://img.shields.io/badge/AI_%26_Machine_Learning-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![Termius](https://img.shields.io/badge/Termius-000000?style=for-the-badge&logo=termius&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![AI Engineering](https://img.shields.io/badge/AI_Use_%26_Integration-7A00FF?style=for-the-badge&logo=probot&logoColor=white)
+![Applied AI](https://img.shields.io/badge/AI_Tools_%26_Integration-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ---
 
 ## 📌 Featured Projects & Engineering Focus
