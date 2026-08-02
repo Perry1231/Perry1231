@@ -81,18 +81,15 @@ I specialize in **low-level C++ programming**, microcontroller firmware developm
 
 ---
 
-## 📊 GitHub Statistics
-
 <div align="center">
 
+<!-- Основна статистика (використовує надійне дзеркало) -->
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Perry1231&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
+<!-- Топ мов -->
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Perry1231&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Perry1231&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## 📫 Connect & Contact
