@@ -83,16 +83,9 @@ I specialize in **low-level C++ programming**, microcontroller firmware developm
 
 <div align="center">
 
-<!-- Основна статистика (використовує надійне дзеркало) -->
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Perry1231&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<!-- Топ мов -->
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Perry1231&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-
-</div>
----
-
 ## 📫 Connect & Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslav-vytrykush-4b1a29380/)
+[![GitHub](https://img.shields.io/badge/GitHub-2DBA4E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Perry1231)
 
 <div align="center">
 </div>
