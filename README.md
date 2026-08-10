@@ -96,8 +96,8 @@ I specialize in **low-level C++ programming**, microcontroller firmware developm
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vladyslav_Vytrykush-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vladyslav-vytrykush-4b1a29380/)
-[![GitHub](https://img.shields.io/badge/GitHub-Perry1231-181717?style=for-the-badge&logo=github)](https://github.com/Perry1231)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslav-vytrykush-4b1a29380/)
+[![GitHub](https://img.shields.io/badge/GitHub-2DBA4E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Perry1231)
 
 </div>
 
