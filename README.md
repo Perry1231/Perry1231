@@ -95,8 +95,6 @@ I specialize in **low-level C++ programming**, microcontroller firmware developm
 ## 📫 Connect & Contact
 
 <div align="center">
-
-
 </div>
 
 <p align="center">
