@@ -68,6 +68,7 @@ I specialize in **low-level C++ programming**, microcontroller firmware developm
 ![OpenCode](https://img.shields.io/badge/OpenCode-007ACC?style=for-the-badge&logo=codefactor&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-7A00FF?style=for-the-badge&logo=spacex&logoColor=white)
 ![JuiceCoder](https://img.shields.io/badge/JuiceCoder-FF8C00?style=for-the-badge&logo=coffeescript&logoColor=white)
+[![API Status](https://img.shields.io/badge/API-Operational-success?style=for-the-badge&logo=fastapi&logoColor=white)](https://www.juicecore.xyz/)
 ---
 
 ## 📌 Featured Projects & Engineering Focus
