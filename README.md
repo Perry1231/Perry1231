@@ -6,9 +6,6 @@
 
 <p align="center">
 
-
-
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-Perry132-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Perry132/)
 
 
