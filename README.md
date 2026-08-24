@@ -31,7 +31,6 @@ I specialize in **low-level C++ programming**, microcontroller firmware developm
 - 🧩 **Hobbies**: Algorithmic challenges (LeetCode), hardware prototyping, circuit soldering, gaming mechanics & physical fitness.
 
 ---
----
 
 ## 🔬 Featured Projects
 
