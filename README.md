@@ -31,6 +31,50 @@ I specialize in **low-level C++ programming**, microcontroller firmware developm
 - 🧩 **Hobbies**: Algorithmic challenges (LeetCode), hardware prototyping, circuit soldering, gaming mechanics & physical fitness.
 
 ---
+---
+
+## 🔬 Featured Projects
+
+### 🦾 HS-1 Wearable Motion Tracking System
+
+<div align="center">
+
+![ESP32-C3](https://img.shields.io/badge/ESP32--C3_SuperMini-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![BNO055](https://img.shields.io/badge/BNO055_IMU-00599C?style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F58220?style=for-the-badge&logo=platformio&logoColor=white)
+![Protocols](https://img.shields.io/badge/I2C_|_UART-4A154B?style=for-the-badge)
+
+</div>
+
+**HS-1** is a custom wearable hardware framework designed to capture human spatial kinematics in real-time through a distributed multi-node sensor network. It combines embedded firmware optimization, multi-sensor data fusion, and custom hardware interconnects.
+
+* **Distributed Hardware Topology**: Powered by ESP32-C3 SuperMini controllers paired with high-precision BNO055 / BMI160 IMU sensors.
+* **Custom Bus Interconnects**: Implements sequential node-to-node data pass-through architecture over I2C and UART buses routed to the main controller.
+* **Firmware Optimization**: Built in C++ using PlatformIO, featuring non-blocking sensor sampling loops and low-overhead data packetization.
+* **3D Kinematics Streaming**: Streams orientation data (quaternions / Euler angles) for real-time 3D limb visualization and movement tracking.
+
+
+### 🌐 juiceTeam — AI API Platform & Web Services
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+</div>
+
+Web platform and backend infrastructure developed for **juiceTeam**, delivering structured AI API routing services, user-facing frontends, and backend integration layers.
+
+* **Frontend Web Interface**: Custom web layout built using HTML5, CSS3, and JavaScript for seamless user interaction and service monitoring.
+* **API Routing Infrastructure**: Scalable proxying and automated request management for Large Language Models and AI backend services.
+* **Full-Stack Web Integration**: Connected front-end web client to RESTful endpoints for efficient API authentication and data processing.
+---
+
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -76,6 +120,7 @@ I specialize in **low-level C++ programming**, microcontroller firmware developm
 * 🦾 **Multi-Sensor Motion Tracking Unit**: Custom-built motion tracking suit utilizing distributed microcontrollers and multi-sensor fusion for precision spatial tracking.
 * 🌐 **AI API Platform Services**: Web platform backend facilitating structured API access and integrations for AI services.
 * 🧮 **Algorithmic Solutions**: Clean, efficient C++ solutions for complex data structures and algorithms.
+
 
 ---
 
